@@ -1,0 +1,12 @@
+* git status:
+    - Github icin untracked filelari belirtir.
+* git add:
+    - Github icin untracked filerlari trackler.
+    - git add. => hepsini trackler
+    - git add index.html => belirtilen dostayi trackler
+* git commit:
+    - Self-explanatory
+    - git commit -m "bla bla bla" (title of the message) -m "hahaha" (description box)
+* git push:
+    - bu komut kullanilmadan yapilan butun degisiklikler locally kaydedilir. Githubda gozukmesini istiyorsan pushla.
+
